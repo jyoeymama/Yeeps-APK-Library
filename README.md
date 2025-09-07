@@ -11,7 +11,7 @@ WARNING: I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR GAME, HEADSET, OR ACCO
 
 
 TUTORIAL ON HOW TO INSTALL YOUR OWN APK:
-first go into sidequest and go into the terminal (MUST HAVE DEVELOPER MODE ON ACCOUNT ENABLED, YOU MUST HAVE A PC OR LAPTOP, YOU ALSO NEED A USB 3.0 CABLE!)
+first go into sidequest and go into the terminal, You can use the powershell terminal too! (MUST HAVE DEVELOPER MODE ON ACCOUNT ENABLED, YOU MUST HAVE A PC OR LAPTOP, YOU ALSO NEED A USB 3.0 CABLE!)
 
 Go into powershell and type this to make sure your headset is connected to your PC:
 
