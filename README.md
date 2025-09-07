@@ -50,11 +50,13 @@ TOOLS FOR MODDING/RIPPING ASSETS:
 
 APK DESCRIPTION:
 
-yeeps1.9update is the yeeps apk for the 1.9 update
+yeeps1.9update.zip is the yeeps apk for the 1.9 update
 
-yeeps2.0update is the yeeps apk for the 2.0 update
+yeeps2.0update.zip is the yeeps apk for the 2.0 update
 
-yeepsdesertupdate is the yeeps apk for the desert update
+yeepsdesertupdate.zip is the yeeps apk for the desert update
+
+(TO RECOMPILE THEM INTO AN APK JUST RENAME IT FROM example.zip TO example.apk)
 
 TUTORIAL ON HOW TO INSTALL YOUR OWN APK:
 first go into sidequest and go into the terminal, You can use the powershell terminal too! (MUST HAVE DEVELOPER MODE ON ACCOUNT ENABLED, YOU MUST HAVE A PC OR LAPTOP, YOU ALSO NEED A USB 3.0 CABLE!)
