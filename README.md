@@ -13,7 +13,7 @@ Go into powershell and type this to make sure your headset is connected to your 
 
 (MAKE SURE YOU GO INTO YOUR HEADSET FIRST AND CLICK ALLOW)
 ```
-adb devices
+adb list devices
 ```
 Once the connection is successfull type the following command below:
 
