@@ -6,6 +6,10 @@ WARNING: I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR GAME, HEADSET, OR ACCO
 (my game got corrupted from a failed hack attempt)
 
 
+<img width="1280" height="720" alt="Welcome To The Yeeps APK Library!" src="https://github.com/user-attachments/assets/1214f66a-3c74-4c65-ba08-c06e85f613b9" />
+
+
+
 TUTORIAL ON HOW TO INSTALL YOUR OWN APK:
 first go into sidequest and go into the terminal (MUST HAVE DEVELOPER MODE ON ACCOUNT ENABLED, YOU MUST HAVE A PC OR LAPTOP, YOU ALSO NEED A USB 3.0 CABLE!)
 
