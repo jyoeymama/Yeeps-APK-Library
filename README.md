@@ -3,7 +3,7 @@ Yeeps apks that I have accumulated over time.
 All these APKS where all pulled by jyomama28 or jyoeymama on GitHub!
 If you have any questions please let me know! Send me an email at: jyomama28@gmail.com (You will recieve a response within 1-2 days unless im busy!)
 WARNING: I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR GAME, HEADSET, OR ACCOUNT! FELLOW HACKERS BEWARE! YOU CAN GET BANNED FOR HACKING!
-(my game got corrupted from a failed hack attempt lol)
+(my game got corrupted from a failed hack attempt lol) If you are a modder and have made sucessfull mods from yeeps, Id love to get a video if you can, send the video to: jyomama28@gmail.com
 
 
 <img width="1280" height="720" alt="Welcome To The Yeeps APK Library!" src="https://github.com/user-attachments/assets/1214f66a-3c74-4c65-ba08-c06e85f613b9" />
