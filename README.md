@@ -5,6 +5,8 @@ If you have any questions please let me know! Send me an email at: jyomama28@gma
 WARNING: I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR GAME, HEADSET, OR ACCOUNT! FELLOW HACKERS BEWARE! YOU CAN GET BANNED FOR HACKING!
 (my game got corrupted from a failed hack attempt lol) If you are a modder and have made sucessfull mods from yeeps, Id love to get a video if you can, send the video to: jyomama28@gmail.com
 
+Incase anyone is curios about how my game looked when it got corrupted here you go!
+
 
 <img width="1280" height="720" alt="Welcome To The Yeeps APK Library!" src="https://github.com/user-attachments/assets/1214f66a-3c74-4c65-ba08-c06e85f613b9" />
 
