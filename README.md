@@ -4,6 +4,7 @@ All these APKS where all pulled by jyomama28 or jyoeymama on GitHub!
 If you have any questions please let me know! Send me an email at: jyomama28@gmail.com (You will recieve a response within 1-2 days unless im busy!)
 WARNING: I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO YOUR GAME, HEADSET, OR ACCOUNT! FELLOW HACKERS BEWARE! YOU CAN GET BANNED FOR HACKING!
 (my game got corrupted from a failed hack attempt lol) If you are a modder and have made sucessfull mods from yeeps, Id love to get a video if you can, send the video to: jyomama28@gmail.com
+Heres another thing, If you find a file named global-metadta.dat its encrypted. I tried to do another hack test which required the global-metadata.dat and another file named libil2cpp.so to compile my script to change my player color in c# but when I tried to compile the project into one .dll file it gave several errors. PLEASE NOTE THAT SOME FILES ARE ENCRYPTED TO PREVENT HACKERS. I am personally trying to decrypt them using several methods but beware the some files are indeed encrypted!
 
 Incase anyone is curios about how my game looked when it got corrupted here you go! (my guess is that when I attempted to change the code of the APK, it must have flagged my account saying that I cant play because meta cant autenticate my account because i modified the APK.)
 
